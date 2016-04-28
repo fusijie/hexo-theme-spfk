@@ -128,13 +128,8 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  MOxFIVE: http://MOxFIVE.github.io/
-  DoubleV: http://www.vsay.cn/
-  兮兮: http://www.ccwebsite.com/
-  翁天信: http://blog.dandyweng.com/
-  潘利强: http://www.plqblog.com/views/index.php
-  hankin: http://www.hankin.cn/
-  waydrow: http://blog.waydrow.com/
+  Cocos2d-x 官网: http://www.cocos2d-x.org/
+  Cocos 官网: http://cocos.com/
 
 #是否开启“关于我”。
 # aboutme: 游戏狗，折腾族
