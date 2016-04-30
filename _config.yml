@@ -137,7 +137,7 @@ aboutme: false
 
 # 是否在新窗口打开链接
 # Open ALL link in a new tab
-open_in_new: true
+# open_in_new: true
 
 # Customize feed link 自定义订阅地址
 rss: /atom.xml
